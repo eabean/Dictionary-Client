@@ -36,7 +36,7 @@ public class CSdict {
             if (args.length == PERMITTED_ARGUMENT_COUNT) {
                 debugOn = args[0].equals("-d");
                 if (debugOn) {
-                  //System.err.println("Debugging output enabled");
+                  System.err.println("Debugging output enabled");
                 } else {
                     System.err.println("997 Invalid command line option - Only -d is allowed.");
                     return;
