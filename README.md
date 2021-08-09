@@ -11,7 +11,7 @@ connected server.
 3. Run the program with the command `java -jar CSdict.jar`. You may add the optional `-d` flag to print status codes and responses.
 4. Connect to a dictionary server and port using the `open` command. For example, `open dict.org 2628`.
 
-## Available Commmands
+## Available Commands
 
 | Command | Description |
 | --- | --- |
